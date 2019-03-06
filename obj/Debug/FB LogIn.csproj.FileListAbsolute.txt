@@ -1,0 +1,11 @@
+c:\users\meilkaren\source\repos\FB LogIn\bin\Debug\FB LogIn.exe
+c:\users\meilkaren\source\repos\FB LogIn\bin\Debug\FB LogIn.pdb
+c:\users\meilkaren\source\repos\FB LogIn\bin\Debug\ArcanecfgFacebookLogin.dll
+c:\users\meilkaren\source\repos\FB LogIn\obj\Debug\FB LogIn.csprojAssemblyReference.cache
+c:\users\meilkaren\source\repos\FB LogIn\obj\Debug\FB_LogIn.Form1.resources
+c:\users\meilkaren\source\repos\FB LogIn\obj\Debug\FB_LogIn.Properties.Resources.resources
+c:\users\meilkaren\source\repos\FB LogIn\obj\Debug\FB LogIn.csproj.GenerateResource.cache
+c:\users\meilkaren\source\repos\FB LogIn\obj\Debug\FB LogIn.csproj.CoreCompileInputs.cache
+c:\users\meilkaren\source\repos\FB LogIn\obj\Debug\FB LogIn.csproj.CopyComplete
+c:\users\meilkaren\source\repos\FB LogIn\obj\Debug\FB LogIn.exe
+c:\users\meilkaren\source\repos\FB LogIn\obj\Debug\FB LogIn.pdb
